@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+## Screenshots
+
+one             |  two
+:-------------------------:|:-------------------------:
+![](https://github.com/ykun21/flutter-ui-test/blob/main/flutter_01.png)  |  ![](https://github.com/ykun21/flutter-ui-test/blob/main/flutter_02.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
